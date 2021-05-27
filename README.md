@@ -1,4 +1,4 @@
-# Laboratoire des analyses médicale
+# Laboratoire des analyses médicales
 (frontend reactjs + material ui )
 
 # Getting Started with Create React App
